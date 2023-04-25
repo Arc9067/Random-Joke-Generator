@@ -1,0 +1,21 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.App {
+  /* height: 300px; */
+  width: 80vw;
+  /* background-color: #f9f9f9; */
+}
+
+h1 {
+  text-transform: capitalize;
+}
+
+p {
+  max-width: 500px;
+  margin-inline: auto;
+}
